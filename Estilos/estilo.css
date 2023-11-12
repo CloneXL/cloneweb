@@ -1,0 +1,43 @@
+body {
+  color: white;
+  font-family: Arial;
+  background-color: #4ca1ff;
+}
+
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px 75px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+section p {
+  background-color: #4ca5ff;
+  width: 375px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 5px;
+}
+
+button {
+	color: #0013e5;
+	text-decoration: underline;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+
+.centro {
+  text-align: center;
+  align-items: center;
+}
