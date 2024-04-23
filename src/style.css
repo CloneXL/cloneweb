@@ -1,0 +1,45 @@
+body {
+  color: white;
+  font-family: Arial;
+  background-color: #444444;
+}
+
+header img {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px 75px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 5px;
+}
+
+button {
+	color: #1c57fa;
+	text-decoration: underline;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+}
+
+#p1 {
+  align-items: center;
+}
+
+.centro {
+  text-align: center;
+  align-items: center;
+}
+
+#video {
+  height: 100px;
+  width: 100px;
+}
